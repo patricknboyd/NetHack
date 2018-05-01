@@ -1,4 +1,11 @@
-                NetHack 3.6.1 -- General information
+                As-yet-unnamed NetHack Quality of Life Mod
+		
+This is intended to be a rework of some of NetHack's mechanics that,
+in my opinion, are more annoying than they are fun. All of these changes
+are based on my personal view of the game, and are not intended to 
+maintain all of the original design decisions.
+		
+		NetHack 3.6.1 -- General information
 
 NetHack 3.6 is an enhancement to the dungeon exploration game NetHack,
 which is a distant descendent of Rogue and Hack, and a direct descendent of
